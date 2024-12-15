@@ -34,7 +34,8 @@
   margin: 0;
   padding: 0px;
 }
-.tasks__input,.tasks-button {
+.tasks__input,
+.tasks-button {
   outline: none;
 }
 .tasks-button {
